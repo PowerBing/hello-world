@@ -1,9 +1,7 @@
 #include <iostream.h>
 
 main() {
-  for(;;) {
-    cout << "Hello World!\n";
-  }
+    cout << "Hello World!";
 }
 
 
@@ -11,7 +9,5 @@ main() {
 #include <iostream>
 
 int main() {
-    for(;;) {
        std::cout << "Hello World!" <<std::endl;
-    }
 }
